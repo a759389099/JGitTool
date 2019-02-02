@@ -14,3 +14,6 @@
 gitRoot :你额外检出项目(仓库)的所在url
 revision:该次提交的commitid,长id
 destPath:要保存到的代码文件夹所在位置
+
+
+2.运行startcheckout类的主方法
